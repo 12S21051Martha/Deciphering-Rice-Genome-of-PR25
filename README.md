@@ -12,6 +12,8 @@ Scope excludes variant calling and wet lab validation.
 2. Compare functional annotation coverage (KNOWN vs UNKNOWN) across origin groups.
 3. Summarize dominant functions among KNOWN genes by integrating orthology based (eggNOG mapper) and protein signature based (InterProScan) evidence.
 
+Note: The TASI-2425-117 document is the final undergraduate thesis report prepared for the defense examination, written in Indonesian.
+
 ## Research Method
 ![Research Method](Research%20Method.png)
 
